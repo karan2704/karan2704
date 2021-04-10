@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**karan2704/karan2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on front end development
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate on Open Source Projects involving Web Dev and Machine Learning 
-- 🤔 I’m looking for help with Starting active contribution
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+- 🔭 I’m currently working on Front End development.
+- 🌱 I’m currently learning Deep Learning.
+- 👯 I’m looking to collaborate on Open Source Projects involving Web Dev and Machine Learning. 
+- 🤔 I’m looking for help with Starting active contribution.
+- 💬 Ask me about React.js and ML algorithms.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/karan-mishra-1224681a2/">LinkedIn</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I'm Batman
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=karan2704&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
