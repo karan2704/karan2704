@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Front End development.
+- 🔭 I’m currently working on Front End development and Machine Learning algorithms.
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate on Open Source Projects involving Web Dev and Machine Learning. 
 - 🤔 I’m looking for help with Starting active contribution.
