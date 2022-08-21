@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Front End development using ReactJS.
-- 🌱 I’m currently learning Django.
-- 👯 I’m looking to collaborate on Open Source Projects involving Web Dev and Machine Learning. 
-- 🤔 I’m looking for help with Starting active contribution.
-- 💬 Ask me about React.js and ML algorithms.
+- 🔭 I’m currently contributing to Orcasound.
+- 🌱 I’m currently learning about OSS. 
+- 💬 Ask me about cloud and container technologies.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/karan-mishra-1224681a2/">LinkedIn.</a>
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm Batman.
